@@ -1,0 +1,2 @@
+just put the train.csv, test.csv, and train_result.csv in your googe drive and then mount them into the google colab
+and according to what I mentioned in my report there is a weights14.npy for the initialization of our gradient decnt weight which you could also import them to the google colab.
